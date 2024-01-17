@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-### - 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python and HTML.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
+Hello! My name is Michael Jaojoco and I am a student at UC Santa Barbara taking BS Biochemistry-Molecular Biology.
+
+I'm looking to gain more experience in coding! Currently studying Python and HTML.
+
+- 🔭 I’m currently working on this GitHub page
+- 🌱 I’m currently learning Python and HTML
+- 😄 Pronouns: he/him
